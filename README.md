@@ -3,6 +3,7 @@ this is a Tutorial for Kids or Begginer Developers  for How to implement Snake G
 let’s have a quick look at all the sub-bits that build the Snake Game in Python:
 
 1.Installing Pygame
+
 2.Create the Screen
 3.Create the Snake
 4.Moving the Snake
