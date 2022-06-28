@@ -1,5 +1,5 @@
 # Snake-Game
-this is a Tutorial for Kids or Begginer Developers  for How to implement Snake Game 🐍🐍🐍🐍 in PYthon
+this is a Tutorial for Kids or Beginner Developers  for How to implement Snake Game 🐍🐍🐍🐍 in PYthon
 let’s have a quick look at all the sub-bits that build the Snake Game in Python:
 
 1.Installing Pygame
